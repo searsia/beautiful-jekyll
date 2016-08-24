@@ -23,7 +23,7 @@ description: LCR bioinformatics group at the BC Cancer Agency
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutme"
   Resources:
     - Getting started: "getting-started"
 
