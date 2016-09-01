@@ -1,7 +1,6 @@
 ---
 layout: page
 title:
-show-avatar: false
 ---
 
 ![Dr. Christian Steidl](img/steidl.jpg)
