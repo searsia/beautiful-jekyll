@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scott Lab
+title:
 ---
 
 # Dr. David Scott
