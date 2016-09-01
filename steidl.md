@@ -5,8 +5,6 @@ title: Steidl Lab
 
 # Dr. Christian Steidl, MD
 
-## Research Scientist
-
 Tel: 604-675-8046  
 Fax: 604-675-8183  
 675 West 10th Ave, Vancouver BC, V5Z 1L3
@@ -14,17 +12,17 @@ Fax: 604-675-8183
 
 ### Research Role
 
-- Research Scientists
+- Research Scientist
 - Assistant Professor, Department of Pathology and Laboratory Medicine (University of British Columbia)
 
 
-## Education
+### Education
 
 - M.D., University of Muenster Medical School, 2001
 - Doctorate (Pathology), University of Witten/Herdecke, 2003
 
 
-### Research Interests:
+### Research Interests
 
 The research of my laboratory focuses on the molecular characterization of lymphoid cancers and biomarker discovery in a variety of Hodgkin and Non-Hodgkin Lymphoma subtypes.  Our translational lymphoma research group uses a variety of state-of-the-art genome-wide discovery tools including array-based and digital gene expression profiling, single-nucleotide polymorphisms ananlysis and massively parallel sequencing techniques.  A main research goal of the lab is to identify and functionally study underlying genetic mechanisms of immune privilege in lymphoid cancers.  In previous work using next generation sequencing, we identified several driver mutations and gene fusions, in particular, that have been shown to arise from specific chromosomal rearrangements in Hodgkin lymphoma and primary mediastinal large B cell lymphoma.  Most of the identified genes (CIITA, CD274, PDCD1LG2) feature prominently in immune cell function impacting non-neoplastic cells in the tumor microenvironment.  The discovery of these changes across a wide spectrum of lymphomas will likely  reinforced the paradigm that immune privilege is a critical component of cancer phenotypes.
 
