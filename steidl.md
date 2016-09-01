@@ -3,6 +3,7 @@ layout: page
 title:
 ---
 
+<img align="center" src="img/steidl.jpg" />
 ![Dr. Christian Steidl](img/steidl.jpg)
 
 # Dr. Christian Steidl, MD
