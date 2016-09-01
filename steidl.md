@@ -6,6 +6,7 @@ title: Steidl Lab
 # Dr. Christian Steidl, MD
 
 ![Dr. Christian Steidl](img/steidl.jpg)
+<img align="left" src="img/steidl.jpg">
 
 <CSteidl@bccancer.bc.ca>  
 Tel: 604-675-8046  
