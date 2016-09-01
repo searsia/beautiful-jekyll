@@ -3,9 +3,9 @@ layout: page
 title:
 ---
 
-# Dr. Christian Steidl, MD
-
 <img align="right" src="/img/steidl.png">
+
+# Dr. Christian Steidl, MD
 
 <CSteidl@bccancer.bc.ca>  
 Tel: 604-675-8046  
