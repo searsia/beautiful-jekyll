@@ -1,5 +1,9 @@
 ---
 layout: page
-title: About us
-subtitle: Information about the LCR department at the BC Cancer Agency
+title: Scott Lab
 ---
+
+# Dr. David Scott
+
+<DScott8@bccancer.bc.ca>  
+675 West 19th Ave, Vancouver BC, V5Z 1L3
