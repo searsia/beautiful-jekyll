@@ -20,6 +20,6 @@ This builds upon a history of recent research achievements, including:
 Emerging research areas include genome biology, clonal evolution, immune, and tumour microenvironment biology,
 as well as translational biomarker research to identify novel disease and outcome related biomarkers to enhance precision medicine in lymphoma.
 
-Lymphoid Cancer Research has established multiple technology platforms, including a MiSeq sequencing platform, nanoString digital gene expression pro ling, and a FISH microscope setup for Tissue Microarray scanning. Principal Investigators in Lymphoid Cancer Research also hold multiple patents based on genomic discoveries and the development of molecular assays, of which some are licensed to industry partners.
+Lymphoid Cancer Research has established multiple technology platforms, including a MiSeq sequencing platform, nanoString digital gene expression profiling, and a FISH microscope setup for Tissue Microarray scanning. Principal Investigators in Lymphoid Cancer Research also hold multiple patents based on genomic discoveries and the development of molecular assays, of which some are licensed to industry partners.
 
-The Vancouver-based Department also houses a tissue biobank and clinical database for the BioLym (Biology of Lymphoid Cancers) initiative. This tissue repository program has already involved more than 30,000 participants and provides signi cant support to lymphoid and other cancer related research.
+The Vancouver-based Department also houses a tissue biobank and clinical database for the BioLym (Biology of Lymphoid Cancers) initiative. This tissue repository program has already involved more than 30,000 participants and provides significant support to lymphoid and other cancer related research.
