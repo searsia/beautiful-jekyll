@@ -10,8 +10,8 @@ title:
 <CSteidl@bccancer.bc.ca>  
 Tel: 604-675-8046  
 Fax: 604-675-8183  
-675 West 10th Ave, Vancouver BC, V5Z 1L3
-
+675 West 10th Ave, Vancouver BC, V5Z 1L3  
+[Steidl Lab website](http://steidllab.med.ubc.ca/)
 
 ### Research Role
 
@@ -37,6 +37,3 @@ Lymphoma relapse and progression is still one of the major clinical challenges i
 ### Collaborations
 
 As a translational research laboratory we pursue the goal of translating our research findings into better treatments for our patients.  The Centre for Lymphoid Cancer (CLC) provides an excellent infrastructure to answer clinically relevant questions in collaboration with clinical oncologists (Joseph Connors, Laurie Sehn, Kerry Savage), hemato-pathologists (Randy Gascoyne), genome researchers (Marco Marra) and computational biologists (Sohrab Shah).  The Centre for Translational and Applied Genomics (CTAG) and the Genome Sciences Centre (GSC) is providing cutting technology to facilitate translational research from bench to bedside.  Multiple collaborations with researchers inside and outside the Cancer Agency complement the research focus areas to provide additional expertise in epigenomics (Martin Hirst) in vivo modeling (Steidl lab, Einstein College, NY), endogenous retroviruses and epigenetics (Mager lab, Terry-Fox Laboratory, BCCA), immune pathology (Anke van den Berg, Arjan Diepstra, University of Groningen, NL), and childhood lymphomas (Horton lab, Baylor College, Houston, TX).
-
-
-Visit the [Steidl Lab website](http://steidllab.med.ubc.ca/)!
