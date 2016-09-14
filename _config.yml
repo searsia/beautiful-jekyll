@@ -24,8 +24,7 @@ description: LCR Department at the BC Cancer Research Centre
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutme"
-  Resources:
-    - Getting started: "getting-started"
+  Careers: "careers"
   Researchers:
     - Dr. Christian Steidl: "steidl"
     - Dr. David Scott: "scott"
