@@ -4,7 +4,7 @@ title:
 ---
 
 # Bioinformatics Engineering Co-op Student </span>
-# Laboratory of Dr. Christian Steidl
+Laboratory of Dr. Christian Steidl
 Department of Lymphoid Cancer Research – BC Cancer Agency’s Research Centre
 
 ### Job Description
