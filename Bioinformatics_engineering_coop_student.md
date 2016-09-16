@@ -4,9 +4,7 @@ title:
 ---
 
 # Bioinformatics Engineering Co-op Student </span>
-
 Laboratory of Dr. Christian Steidl
-
 Department of Lymphoid Cancer Research – BC Cancer Agency’s Research Centre
 
 ### Job Description
@@ -30,11 +28,18 @@ This position is well-suited to students looking to gain experience in bioinform
 
 The desired candidate should be comfortable working both independently and in a small team environment.
 
+
 Please forward your applications to:
 
 Ms. Lori-Ann Wilson
+
 Administrative Coordinator
+
 Department of Lymphoid Cancer Research
+
 BC Cancer Research Centre
-lwilson@bccrc.ca
+
+<lwilson@bccrc.ca>
+
+#
 
