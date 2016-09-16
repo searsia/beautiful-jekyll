@@ -11,6 +11,6 @@ The LCR is currently hiring the following positions:
 
 Steidl Lab-specific positions:
 
-* <span style="color: rgb(34,34,34);">[Bioinformatics Engineer](LCR_Coop_Posting_Bioinformatics_Engineer_2016-09-14.doc.pdf)</span>
+* <span style="color: rgb(34,34,34);">[Bioinformatics Engineer](LCR-BCCRC.github.io/LCR_Coop_Posting_Bioinformatics_Engineer_2016-09-14.doc.pdf)</span>
 
 Please direct applications to Lori-Ann Wilson (lwilson@bccrc.ca)
