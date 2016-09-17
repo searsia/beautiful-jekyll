@@ -11,7 +11,7 @@ The LCR is currently hiring the following positions:
 
 Steidl Lab-specific positions:
 
-* <span style="color: rgb(34,34,34);">[[Bioinformatics Engineer|Bioinformatics_engineering_coop_student.md]]</span>
+* <span style="color: rgb(34,34,34);">[Bionformatics Engineer](http://lcr-bccrc.github.io/Bioinformatics_engineering_coop_student/)</span>
 
 * <a href="{{ site.base-url }}/Bioinformatics_engineering_coop_student.md">Bioinformatics engineer</a>
 
