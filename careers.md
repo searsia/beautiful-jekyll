@@ -11,8 +11,6 @@ The LCR is currently hiring the following positions:
 
 Steidl Lab-specific positions:
 
-* <span style="color: rgb(34,34,34);">[Bionformatics Engineer](http://lcr-bccrc.github.io/Bioinformatics_engineering_coop_student/)</span>
-
-* <a href="{{ site.base-url }}/Bioinformatics_engineering_coop_student.md">Bioinformatics engineer</a>
+* [Bioinformatics Engineer](https://github.com/LCR-BCCRC/LCR-BCCRC.github.io/blob/master/Bioinformatics_engineering_coop_student.md)
 
 Please direct applications to Lori-Ann Wilson (lwilson@bccrc.ca)
