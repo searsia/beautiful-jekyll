@@ -41,6 +41,3 @@ Department of Lymphoid Cancer Research
 BC Cancer Research Centre
 
 <lwilson@bccrc.ca>
-
-#
-
