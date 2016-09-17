@@ -4,13 +4,16 @@ title: Careers
 subtitle: Job opportunities in the LCR department
 ---
 
-The LCR is currently hiring the following positions:
+Please direct applications to Lori-Ann Wilson (lwilson@bccrc.ca).
+
+# Steidl Lab
+
+The Steidl lab is currently hiring the following positions:
 
 * Bioinformatics graduate students
 * Co-op students
+    + [Bioinformatics Engineer](/Bioinformatics_engineering_coop_student)
 
-Steidl Lab-specific positions:
+# Scott Lab
 
-* [Bioinformatics Engineer (co-op student)](https://LCR-BCCRC.github.io/Bioinformatics_engineering_coop_student/)
-
-Please direct applications to Lori-Ann Wilson (lwilson@bccrc.ca)
+No current postings for the Scott lab.
