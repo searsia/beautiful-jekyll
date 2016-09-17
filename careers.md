@@ -13,6 +13,6 @@ Steidl Lab-specific positions:
 
 * <span style="color: rgb(34,34,34);">[[Bioinformatics Engineer|Bioinformatics_engineering_coop_student.md]]</span>
 
-* <a href="{{ site.base-url }}{{ Bioinformatics_engineering_coop_student.md }}">Bioinformatics engineer</a>
+* <a href="{{ site.base-url }}/Bioinformatics_engineering_coop_student.md">Bioinformatics engineer</a>
 
 Please direct applications to Lori-Ann Wilson (lwilson@bccrc.ca)
