@@ -35,5 +35,6 @@ Please forward your applications to:
 Ms. Lori-Ann Wilson  
 Administrative Coordinator  
 Department of Lymphoid Cancer Research  
-BC Cancer Research Centre  
+BC Cancer Research Centre
+
 <lwilson@bccrc.ca>
