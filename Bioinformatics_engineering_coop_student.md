@@ -32,12 +32,8 @@ The desired candidate should be comfortable working both independently and in a 
 
 Please forward your applications to:
 
-Ms. Lori-Ann Wilson
-
-Administrative Coordinator
-
-Department of Lymphoid Cancer Research
-
-BC Cancer Research Centre
-
+Ms. Lori-Ann Wilson  
+Administrative Coordinator  
+Department of Lymphoid Cancer Research  
+BC Cancer Research Centre  
 <lwilson@bccrc.ca>
