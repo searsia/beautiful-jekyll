@@ -25,6 +25,7 @@ Please visit the [Steidl Lab website](http://steidllab.med.ubc.ca/)!
 <DScott8@bccancer.bc.ca>  
 675 West 10th Ave, Vancouver BC, V5Z 1L3
 
+<br><br>
 
 ### Administrative Staff
 
@@ -37,6 +38,7 @@ Tel: 604-675-8000 x7621
 Fax: 604-675-8183  
 675 West 10th Ave, Vancouver BC, V5Z 1L3
 
+<br><br>
 
 ### Bioinformatics Team
 
