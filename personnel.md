@@ -5,7 +5,7 @@ title: Personnel
 
 ### Principal Investigators
 
-<img align="right" src="/img/steidl.png">
+<img align="right" src="/img/steidl.png" height="200">
 
 **Dr. Christian Steidl, MD**  
 <CSteidl@bccancer.bc.ca>  
