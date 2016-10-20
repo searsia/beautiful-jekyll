@@ -3,12 +3,11 @@ layout: page
 title: Personnel
 ---
 
-# Principal Investigators
+### Principal Investigators
 
 <img align="right" src="/img/steidl.png">
 
-### Dr. Christian Steidl, MD
-
+**Dr. Christian Steidl, MD**  
 <CSteidl@bccancer.bc.ca>  
 Tel: 604-675-8046  
 Fax: 604-675-8183  
@@ -16,17 +15,14 @@ Fax: 604-675-8183
 
 Please visit the [Steidl Lab website](http://steidllab.med.ubc.ca/)!
 
-
-### Dr. David Scott, MD
-
+**Dr. David Scott, MD**  
 <DScott8@bccancer.bc.ca>  
 675 West 10th Ave, Vancouver BC, V5Z 1L3
 
 
-# Administrative Staff
+### Administrative Staff
 
-### Lori-Ann Wilson, Administrative Coordinator
-
+**Lori-Ann Wilson, Administrative Coordinator**  
 <lwilson@bccrc.ca>  
 Tel: 604-675-8000 x7621  
 Fax: 604-675-8183  
