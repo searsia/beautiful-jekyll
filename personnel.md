@@ -25,7 +25,6 @@ Please visit the [Steidl Lab website](http://steidllab.med.ubc.ca/)!
 <DScott8@bccancer.bc.ca>  
 675 West 10th Ave, Vancouver BC, V5Z 1L3
 
----
 
 ### Administrative Staff
 
