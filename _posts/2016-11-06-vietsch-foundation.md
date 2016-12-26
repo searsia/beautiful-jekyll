@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Vietsch Foundation funds Searsia
+bigimg: /img/searsia-window.jpg
 tags: [sponsors]
 ---
 
 We are happy and proud to announce that the [Vietsch Foundation][1] will 
 support the further development of Searsia. The Vietsch Foundation was 
-created by Willem Karel Vietsch (1952-2014) through his last will and 
+founded by Willem Karel Vietsch (1952-2014) through his last will and 
 testament: 
 
 > Karel was very involved in the Internet community. He spent a large
