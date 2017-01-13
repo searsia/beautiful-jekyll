@@ -2,7 +2,7 @@
 layout: post
 title: Searsia nominated for the ISOC NL Innovation Award
 bigimg: /img/searsia-wall.jpg
-tags: [awards]
+tags: [isoc]
 ---
 
 We begin the new year with some excellent news. The Dutch chapter of the 
