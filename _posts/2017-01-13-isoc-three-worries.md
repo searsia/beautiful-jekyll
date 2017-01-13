@@ -53,7 +53,7 @@ Each Searsia engine is a search engine too, pretty much like any other search en
 
 ## Conclusion
 
-Let's go back to our three worries: Manipulation, Privacy, and Costs of crawling. What do you gain by installing Searsia? First, Searsia delegates queries to multiple search engines that it does not control. Even if one or two of those manipulate or censor their results, there will be other engines in the federation that show more objective results. Second, all queries go via Searsia, so engines in the federation can no longer track individual users. Of course, now Searsia will get all your queries, but no worries, anyone can run a Searsia server. Third, Searsia does not crawl the web, ever. It will learn over time from each engine in the federation what its contents are. This makes it cheap to set up a Searsia engine, and easy to maintain. You can run Searsia on a cheap server is your own network.
+Let's go back to our three worries: Manipulation, Privacy, and Costs of crawling. What do you gain by installing Searsia? First, Searsia delegates queries to multiple search engines that it does not control. Even if one or two of those manipulate or censor their results, there will be other engines in the federation that show more objective results. Second, all queries go via Searsia, so engines in the federation can no longer track individual users. Of course, now Searsia will get all your queries, but no worries, anyone can run a Searsia server. Third, Searsia does not crawl the web, ever. It will learn over time from each engine in the federation what its contents are. This makes it cheap to set up a Searsia engine, and easy to maintain. You can run Searsia on a cheap server in your own network.
 
 ## Acknowledgments
 
