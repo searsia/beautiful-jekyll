@@ -75,7 +75,7 @@ The Searsia client explicitly shows what engine in the federation produced the r
 
 [1]: http://searsia.org/deck.js/isoc2017.html "Searsia: Search federated. Presented at the ISOC New Year 2017."
 [2]: http://dx.doi.org/10.1073/pnas.1419828112 "Robert Epstein and Ronald Robertson. The search engine manipulation effect (SEME) and its possible impact on the outcomes of elections. Proceedings of the National Academy of Sciences of the USA 112(33), 2014."
-[3]: https://weaponsofmathdestructionbook.com "Cathy O'Neil. Weapons of Math Destruction: How big data increases inequality and threatens democracy. _Crown, New York_, 2016.
+[3]: https://weaponsofmathdestructionbook.com "Cathy O'Neil. Weapons of Math Destruction: How big data increases inequality and threatens democracy. _Crown, New York_, 2016."
 [4]: http://www.cs.utwente.nl/~hiemstra/ "Djoerd Hiemstra's home page: A bit of teaching, some research, shake well..."
 [5]: https://search.utwente.nl "University of Twente Search"
 [6]: https://en.wikipedia.org/wiki/User_agent#Use_in_HTTP "Wikipedia: User Agent, Use in HTTP"
