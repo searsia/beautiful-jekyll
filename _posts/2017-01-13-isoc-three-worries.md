@@ -1,4 +1,4 @@
-
+---
 layout: post
 title: Three worries about web search engines
 subtitle: by Djoerd Hiemstra
