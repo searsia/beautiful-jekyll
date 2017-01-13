@@ -1,4 +1,4 @@
----
+
 layout: post
 title: Three worries about web search engines
 subtitle: by Djoerd Hiemstra
@@ -20,9 +20,9 @@ Search engines influence people. In 2014, [Robert Epstein and Ronald Robertson][
 
 ## 2. Privacy
 
-The second thing that worries me: Search engines receive information from us that is really, really private. We search things about our health, about our sexual preferrences, about our financial situation. Most search engines log our queries, and they hold on to that information, indefinitely. They also log our clicks. And they use this information to target us with advertisements. 
+The second thing that worries me: Search engines receive information from us that is really, really private. We search things about our health, about our sexual preferences, about our financial situation. Most search engines log our queries, and they hold on to that information, indefinitely. They also log our clicks. And they use this information to target us with advertisements.
 
-Sadly, the most vulnerable people in our society, people with bad health or with bad credit scores, are in practice be targeted the most. It is worth reading Cathy O'Neil's analogy between optimizing advertisement returns and the "itinerant quack" in an old western ([O'Neil 2016][3]):
+Sadly, the most vulnerable people in our society, people with bad health or with bad credit scores, are in practice targeted the most. It is worth reading Cathy O'Neil's analogy between optimizing advertisement returns and the "itinerant quack" in an old western ([O'Neil 2016][3]):
 
 > Vulnerability is worth gold. It always has been. Picture an itinerant
 > quack in an old western movie. He pulls into town with his wagon full
@@ -46,7 +46,7 @@ The third thing that worries me: Search engines need a lot of resources. They co
 
 Searsia's approach to search can ease some of these worries. Searsia is a _federated_ search engine. A Searsia search engine is a federation of search engines, like the European Union (EU) is a federation of countries. Within the EU, each countries has its own government and its own laws. Within Searsia, each search engine indexes whatever it likes and returns whatever it likes. 
 
-Sites like Wikipedia, Amazon, Stack Overflow and YouTube provide their own search interface. Obviously, they do not need to crawl their site, because they own the data. They instantly know when something changed. Searsia comes with an configuration mechanism that makes it easy to add search engines to the federation. 
+Sites like Wikipedia, Amazon, Stack Overflow and YouTube provide their own search interface. Obviously, they do not need to crawl their site, because they own the data. They instantly know when something changed. Searsia comes with a configuration mechanism that makes it easy to add search engines to the federation.
 When a Searsia engine receives a query, it forwards the query to a selection of the search engines in the federation. It will try to select those search engines that most likely satisfy the user's need, for instance forwarding a query to YouTube, if it believes the user would like a video. This way, Searsia displays live results from YouTube, instead of results that were crawled a while ago.
 
 Each Searsia engine is a search engine too, pretty much like any other search engine, so we might make a federation of those search engines again.
@@ -67,10 +67,10 @@ At the ISOC meeting, someone in the audience asked me the following:
 > If not then search engines will likely object to being part of 
 > a Searsia federation.
 
-Searsia will generally be configured to access the official APIs of search engines from Google, Twitter, etc., and it will show whatever the engine's official API returns. For our current demonstration deployment, [U. Twente Search][5], we have not seen any of the APIs returning advertisements. However, Searsia's configuration options are quite general; they include options for scraping web results, and for selecting (and ignoring) returned elements, including advertisments.
+Searsia will generally be configured to access the official APIs of search engines from Google, Twitter, etc., and it will show whatever the engine's official API returns. For our current demonstration deployment, [U. Twente Search][5], we have not seen any of the APIs returning advertisements. However, Searsia's configuration options are quite general; they include options for scraping web results, and for selecting (and ignoring) returned elements, including advertisements.
 
 So, yes, Searsia can be configured such that it ignores advertisements from engines.
-The Searsia client explicitly shows what engine in the federation produced the results. This way, Searsia transparantly creates traffic for search engines and for the sites they search. Searsia announces itself by a custom [User-Agent string][6]. If sites object to being part of Searsia, they can be removed from the federation.
+The Searsia client explicitly shows what engine in the federation produced the results. This way, Searsia transparently creates traffic for search engines and for the sites they search. Searsia announces itself by a custom [User-Agent string][6]. If sites object to being part of Searsia, they can be removed from the federation.
 
 
 [1]: http://searsia.org/deck.js/isoc2017.html "Searsia: Search federated. Presented at the ISOC New Year 2017."
