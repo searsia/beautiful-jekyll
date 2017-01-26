@@ -2,6 +2,7 @@
 layout: post
 title: Searsia Cartoon by Anne Stalinski
 bigimg: /img/searsia-cartoon.jpg
+share-img: http://searsia.org/blog/img/searsia-stalinski.jpg
 tags: [isoc]
 ---
 
