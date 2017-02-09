@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Query autocompletions considered harmful
