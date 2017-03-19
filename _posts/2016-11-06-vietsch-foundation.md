@@ -7,7 +7,7 @@ tags: [sponsors]
 
 We are happy and proud to announce that the [Vietsch Foundation][1] will 
 support the further development of Searsia. The Vietsch Foundation was 
-founded by Willem Karel Vietsch (1952-2014) through his last will and 
+founded by [Willem Karel Vietsch][2] (1952-2014) through his last will and 
 testament: 
 
 > Karel was very involved in the Internet community. He spent a large
@@ -20,7 +20,7 @@ testament:
 > scientific research and higher education", in the widest sense. 
 
 Searsia is funded from the "Research and Higher Education Technology
-Fund", a new thematic fund that is managed by the [NLnet Foundation][1].
+Fund", a new thematic fund that is managed by the [NLnet Foundation][3].
 The Vietsch Foundation will fund the Searsia work packages: 
 *Recommendations* and *Advertisements*.
 
@@ -93,4 +93,5 @@ share our vision, and that are willing to provide advertisements for
 anonymous queries from Searsia search engines.
 
 [1]: http://www.vietsch-foundation.org "Vietsch Foundation"
-[2]: https://nlnet.nl "NLNet Foundation"
+[2]: https://nl.wikipedia.org/wiki/Karel_Vietsch "Karel Vietsch"
+[3]: https://nlnet.nl "NLNet Foundation"
