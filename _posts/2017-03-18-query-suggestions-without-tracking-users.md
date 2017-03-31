@@ -57,7 +57,7 @@ Prefix |  MRR  | Returned
 4 word | 0.365 |   3.06
 5 word | 0.366 |   3.04
 
-Table 1 shows that after typing 3 characters the MRR is 0.135, so the correct suggestion is on average available in the top 8 results (1/8 = 0.125). After typing 1 word, the MRR is 0.271, i.e., on average the correct suggestion is available in the top 4 results.
+Table 1 shows that after typing 3 characters the MRR is 0.135, so the correct suggestion is on average available in the top 8 results (1/8 = 0.125). After typing 1 word, the MRR is 0.271, i.e., on average the correct suggestion is available in the top 4 results. The script [evaluate.py][21] is provided to compute the evaluation retults.
 
 For anchor text completions we ideally would need a large web crawl from 2006 (the year of the query log). In absence of such a crawl, we used data from [ClueWeb09][14], a web crawl of more than 1 billion pages crawled in January and February 2009 by researchers at Carnegie Mellon University. [Anchor texts][15] for the English pages in this collection (about 0.5 billion pages) are readily available, so we do not actually need to process the ClueWeb09 web pages themselves. Anchor texts with the separators  (`.`, `?`,`!`, `|`, `-` or `;`) followed by a space were split in multiple strings. Text in braces `()`, `{}`, `[]` was removed from the strings. We processed the anchor texts by retaining only suggestions that occur at least 15 times. This resulted in 46 million unique suggestions. Performance of the ClueWeb09 anchor text suggestions is presented in Table 2.
 
@@ -84,8 +84,8 @@ Query autocompletions based on anchor text from web pages perform remarkably wel
 
 ## Acknowledgments
 
-We are grateful to the [Vietsch Foundation][19] for funding our work on query suggestions.
-
+We are grateful to the [Vietsch Foundation][19] and [NLnet Foundation][20] 
+for funding our work on query suggestions.
 
 
 [1]: https://github.com/searsia/searsiasuggest "Searsia Suggest"
@@ -107,3 +107,5 @@ We are grateful to the [Vietsch Foundation][19] for funding our work on query su
 [17]: http://www.lemurproject.org/clueweb09/pageRank.php "ClueWeb09 PageRank scores"
 [18]: http://durum0.uwaterloo.ca/clueweb09spam/ "Waterloo Spam Rankings for ClueWeb09"
 [19]: /blog/2016-11-06-vietsch-foundation/ "Vietsch Foundation funds Searsia"
+[20]: https://nlnet.nl/ "NLnet Foundation"
+[21]: https://github.com/searsia/searsiasuggest/blob/master/src/main/python/evaluate.py "Evaluation script"
