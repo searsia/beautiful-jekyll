@@ -92,6 +92,16 @@ We will find at least one, and likely more advertisement partners that
 share our vision, and that are willing to provide advertisements for
 anonymous queries from Searsia search engines.
 
+## More information
+
+For more information, check out the information at the Vietsch Foundation
+and NLnet.
+
+* [Searsia at Vietsch Foundation][4]
+* [Searsia at NLnet][5]
+
 [1]: http://www.vietsch-foundation.org "Vietsch Foundation"
 [2]: https://nl.wikipedia.org/wiki/Karel_Vietsch "Karel Vietsch"
 [3]: https://nlnet.nl "NLNet Foundation"
+[4]: http://www.vietsch-foundation.org/project-searsia/504553992 "Searsia at Vietsch Foundation"
+[5]: https://nlnet.nl/project/searsia/ "Searsia at NLnet"
