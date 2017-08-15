@@ -37,7 +37,7 @@ As an interesting side-effect of Searsia's in-browser linear search approach, us
 
 ## Private search
 
-In-browser search comes with am interesting benefit that solves some of the [privacy concerns of search engines][14] that we discussed in a previous blog post. If search happens inside your browser, then your query does not need to leave your private machine, ever. This way, the site owner cannot learn what you searched for, and you can safely search for private information concerning for instance your health, sexual preferences, or financial situation. 
+In-browser search comes with an interesting benefit that solves some of the [privacy concerns of search engines][14] that we discussed in a previous blog post. If search happens inside your browser, then your query does not need to leave your private machine, ever. This way, the site owner cannot learn what you searched for, and you can safely search for private information concerning for instance your health, sexual preferences, or financial situation. 
 
 Private search using Searsia is demonstrated by [NLnet Search][15]. Here, the client uses URL fragments (the part after the hash symbol `#`) to encode the queries. That part of the URL is not send to the web server, so NLnet will not find out what you search for. To experience private search, do a single search on NLnet, and then turn off the wifi on your phone or laptop: Searching should still work without an internet connection. Of course, once you click on a search result, the site will get some indication of what you searched for, but at least your queries are not leaked to the site owners. No chance they end up in some [autocompletion feature][16].
 
@@ -46,7 +46,7 @@ Private search using Searsia is demonstrated by [NLnet Search][15]. Here, the cl
 
 In-browser search engines are feasible for small collections of up to a few thousand pages. They are easy to deploy and work on static web sites that do not handle any server-side processing. Their functionality is great from a privacy-perspective. Your browser downloads an inverted index or a static search result file, and it searches inside your own machine. The site that you are searching will not find out what you searched for.
 
-Please note, Searsia's in-browser search is still experimental and largely undocumented. The implementation in the v1 branch on Github is much better than the master branch, and it will be further improved in the near future. We will provide more guidelines and documentation once we release version 1.0.0 of Searsia. In the meantime, contact us if you need help trying out Searisa's in-browser search.
+Please note, Searsia's in-browser search is still experimental and largely undocumented. The implementation in the v1 branch on Github is much better than the master branch, and it will be further improved in the near future. We will provide more guidelines and documentation once we release version 1.0.0 of Searsia. In the meantime, contact us if you need help trying out Searsia's in-browser search.
 
 
 ## References
