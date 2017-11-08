@@ -7,8 +7,6 @@ share-img: http://searsia.org/blog/img/searsia-water.jpg
 tags: [advertisements, privacy]
 ---
 
-# Privacy implicatons of federated search
-
 What does "federated" mean in federated search? 
 Like the European Union is a _federation_ of independent countries, so is a
 Searsia engine a _federation_ of independent search engines. When Searsia

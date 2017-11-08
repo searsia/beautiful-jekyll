@@ -7,8 +7,6 @@ share-img: http://searsia.org/blog/img/searsia-wall.jpg
 tags: [privacy]
 ---
 
-# A search engine in your browser
-
 Information Retrieval has come a long way since [Cyril Cleverdon][1] conducted his famous Cranfield experiments on 1400 paper abstracts in the 1960's. At the time, searching the massive 1.6 megabyte [Cranfield collection][2] was a big deal. Today, we routinely take pictures that are much bigger, and even a crappy smart phone can search the data in milliseconds in the web browser. Seriously! Here's a screen shot of the Oukitel OriginalOne (a smart phone that has 512 MB RAM and costs about € 50) [searching the Cranfield collection][3] in its Android 4.4.2 default browser. It's the phone that does the actual searching:
 
 | <img src="/blog/img/cranfield-phone.png" alt="Searching Cranfield on your phone" style="width: 240px;"/> |
