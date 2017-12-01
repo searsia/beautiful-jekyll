@@ -7,7 +7,7 @@ tags: [random]
 ---
 
 We presented Searsia at the 16th Annual Dutch-Belgian Information Retrieval Workshop [DIR 2017][1] which
-was hosted today by the The [Netherlands Institute for Sound and Vision][2]. 
+was hosted today by the [Netherlands Institute for Sound and Vision][2]. 
 DIR 2017 aims to serve as an international platform (with a special focus on the Netherlands and Belgium)
 for exchange and discussions on research & applications in the field of information retrieval as well as 
 related fields.
