@@ -16,6 +16,6 @@ ISOC Netherlands [announced][4] 10 nominees.
 
 
 [1]: https://isoc.nl "Internet Society Netherlands"
-[2]: https://awards.isoc.nl/ "Internet Society Awards"
+[2]: https://awards.isoc.nl/innovatie/2017/ "Internet Society Awards 2017"
 [3]: https://newyear.isoc.nl/ "Internet New Year Reception"
-[4]: https://isoc.nl/finalisten-internet-innovatie-award-bekend/ "Finalisten Internet Innovatie Award 2017 bekend"
+[4]: https://newyear.isoc.nl/2017/ "A very Internet New Year 2017"
