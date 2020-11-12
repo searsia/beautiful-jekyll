@@ -103,5 +103,5 @@ and NLnet.
 [1]: http://www.vietsch-foundation.org "Vietsch Foundation"
 [2]: https://nl.wikipedia.org/wiki/Karel_Vietsch "Karel Vietsch"
 [3]: https://nlnet.nl "NLNet Foundation"
-[4]: http://www.vietsch-foundation.org/project-searsia/504553992 "Searsia at Vietsch Foundation"
+[4]: http://www.vietsch-foundation.org/2017/01/30/searsia-project/ "Searsia at Vietsch Foundation"
 [5]: https://nlnet.nl/project/searsia/ "Searsia at NLnet"
